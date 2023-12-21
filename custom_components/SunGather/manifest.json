@@ -6,8 +6,8 @@
   "issue_tracker": "https://github.com/bohdan-s/hassio-repository/issues",
   "dependencies": [],
   "codeowners": [
-    "https://github.com/bohdan-s",
-    "https://github.com/alangibson"
+    "bohdan-s",
+    "alangibson"
   ],
   "requirements": [
     "PyYAML>=6.0",
