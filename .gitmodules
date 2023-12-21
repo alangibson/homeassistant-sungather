@@ -1,3 +1,0 @@
-[submodule "custom_components/SunGather/SunGather"]
-	path = custom_components/SunGather/SunGather
-	url = https://github.com/alangibson/SunGather
